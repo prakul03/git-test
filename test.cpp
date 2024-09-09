@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int a=10,b=20;
+    int a=10,b=30;
     cout<<a*b<<endl;
     return 0;
 }
